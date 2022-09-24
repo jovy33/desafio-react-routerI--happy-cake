@@ -11,3 +11,59 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+nav {
+  height: 4rem;
+  font-size: larger;
+}
+
+nav a {
+  margin-right: 2rem;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+}
+
+h6 {
+  display: flex;
+  justify-content: center;
+}
+
+.titulo {
+  margin-right: 10px;
+}
+
+.imagen {
+  display: flex;
+  justify-content: center;
+}
+
+.imagen img {
+  width: 16rem;
+}
+
+.formulario {
+  display: flex;
+  justify-content: center;
+}
+
+form {
+  width: 70%;
+  margin-top: 2rem;
+}
+
+label {
+  width: 100%;
+  text-align: center;
+}
+
+.boton {
+  display: flex;
+  justify-content: center;
+}
+
+.contenedor {
+  margin-top: 2rem;
+}
